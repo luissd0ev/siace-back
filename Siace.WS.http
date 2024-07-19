@@ -1,0 +1,6 @@
+@Siace.WS_HostAddress = http://localhost:5176
+
+GET {{Siace.WS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

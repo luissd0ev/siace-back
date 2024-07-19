@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectoss\\CursoNet\\Siace.WS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}|Siace.WS.csproj|c:\\proyectoss\\cursonet\\siace.ws\\controllers\\preguntascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}|Siace.WS.csproj|solutionrelative:controllers\\preguntascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E28F133-9874-4CC3-98EE-009323554CC9}|..\\Siace.Data\\Siace.Data.csproj|c:\\proyectoss\\cursonet\\siace.data\\repository\\preguntasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E28F133-9874-4CC3-98EE-009323554CC9}|..\\Siace.Data\\Siace.Data.csproj|c:\\proyectoss\\cursonet\\siace.data\\repository\\ipreguntasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E28F133-9874-4CC3-98EE-009323554CC9}|..\\Siace.Data\\Siace.Data.csproj|c:\\proyectoss\\cursonet\\siace.data\\models\\respuesta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E28F133-9874-4CC3-98EE-009323554CC9}|..\\Siace.Data\\Siace.Data.csproj|c:\\proyectoss\\cursonet\\siace.data\\repository\\encuestarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PreguntasController.cs",
+              "DocumentMoniker": "C:\\Proyectoss\\CursoNet\\Siace.WS\\Controllers\\PreguntasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PreguntasController.cs",
+              "ToolTip": "C:\\Proyectoss\\CursoNet\\Siace.WS\\Controllers\\PreguntasController.cs",
+              "RelativeToolTip": "Controllers\\PreguntasController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T15:34:31.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPreguntasRepository.cs",
+              "DocumentMoniker": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Repository\\IPreguntasRepository.cs",
+              "RelativeDocumentMoniker": "..\\Siace.Data\\Repository\\IPreguntasRepository.cs",
+              "ToolTip": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Repository\\IPreguntasRepository.cs",
+              "RelativeToolTip": "..\\Siace.Data\\Repository\\IPreguntasRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:13:25.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PreguntasRepository.cs",
+              "DocumentMoniker": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Repository\\PreguntasRepository.cs",
+              "RelativeDocumentMoniker": "..\\Siace.Data\\Repository\\PreguntasRepository.cs",
+              "ToolTip": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Repository\\PreguntasRepository.cs",
+              "RelativeToolTip": "..\\Siace.Data\\Repository\\PreguntasRepository.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAlwLUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:30:33.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Respuesta.cs",
+              "DocumentMoniker": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Models\\Respuesta.cs",
+              "RelativeDocumentMoniker": "..\\Siace.Data\\Models\\Respuesta.cs",
+              "ToolTip": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Models\\Respuesta.cs",
+              "RelativeToolTip": "..\\Siace.Data\\Models\\Respuesta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T20:56:33.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncuestaRepository.cs",
+              "DocumentMoniker": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Repository\\EncuestaRepository.cs",
+              "RelativeDocumentMoniker": "..\\Siace.Data\\Repository\\EncuestaRepository.cs",
+              "ToolTip": "C:\\Proyectoss\\CursoNet\\Siace.Data\\Repository\\EncuestaRepository.cs",
+              "RelativeToolTip": "..\\Siace.Data\\Repository\\EncuestaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T17:19:33.187Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

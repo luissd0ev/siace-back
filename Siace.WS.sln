@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siace.WS", "Siace.WS.csproj", "{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Siace.Data", "..\Siace.Data\Siace.Data.csproj", "{8E28F133-9874-4CC3-98EE-009323554CC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8DEABC9-CEB0-4AC1-840B-352E6A9AB887}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E28F133-9874-4CC3-98EE-009323554CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E28F133-9874-4CC3-98EE-009323554CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E28F133-9874-4CC3-98EE-009323554CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E28F133-9874-4CC3-98EE-009323554CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8080B2CE-0592-4861-934E-DEB33B41D38F}
+	EndGlobalSection
+EndGlobal
